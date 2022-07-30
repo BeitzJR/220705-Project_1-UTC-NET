@@ -1,0 +1,6 @@
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\API_Connection\bin\Debug\API_Connection.dll
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\API_Connection\bin\Debug\API_Connection.pdb
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\API_Connection\obj\Debug\API_Connection.csproj.AssemblyReference.cache
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\API_Connection\obj\Debug\API_Connection.csproj.CoreCompileInputs.cache
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\API_Connection\obj\Debug\API_Connection.dll
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\API_Connection\obj\Debug\API_Connection.pdb

@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Revature\\220705-UTA-NET\\Project 1\\220705-Project_1-UTC-NET\\Client\\RPG_P1_Client\\Actions\\Actions.csproj": {}
+  },
+  "projects": {
+    "D:\\Revature\\220705-UTA-NET\\Project 1\\220705-Project_1-UTC-NET\\Client\\RPG_P1_Client\\Actions\\Actions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Revature\\220705-UTA-NET\\Project 1\\220705-Project_1-UTC-NET\\Client\\RPG_P1_Client\\Actions\\Actions.csproj",
+        "projectName": "Actions",
+        "projectPath": "D:\\Revature\\220705-UTA-NET\\Project 1\\220705-Project_1-UTC-NET\\Client\\RPG_P1_Client\\Actions\\Actions.csproj",
+        "packagesPath": "C:\\Users\\alexz\\.nuget\\packages\\",
+        "outputPath": "D:\\Revature\\220705-UTA-NET\\Project 1\\220705-Project_1-UTC-NET\\Client\\RPG_P1_Client\\Actions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alexz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Revature\\220705-UTA-NET\\Project 1\\220705-Project_1-UTC-NET\\Client\\RPG_P1_Client\\API_Connection\\API_Connection.csproj": {
+                "projectPath": "D:\\Revature\\220705-UTA-NET\\Project 1\\220705-Project_1-UTC-NET\\Client\\RPG_P1_Client\\API_Connection\\API_Connection.csproj"
+              },
+              "D:\\Revature\\220705-UTA-NET\\Project 1\\220705-Project_1-UTC-NET\\Client\\RPG_P1_Client\\Data.DTO\\Data.DTO.csproj": {
+                "projectPath": "D:\\Revature\\220705-UTA-NET\\Project 1\\220705-Project_1-UTC-NET\\Client\\RPG_P1_Client\\Data.DTO\\Data.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Revature\\220705-UTA-NET\\Project 1\\220705-Project_1-UTC-NET\\Client\\RPG_P1_Client\\API_Connection\\API_Connection.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Revature\\220705-UTA-NET\\Project 1\\220705-Project_1-UTC-NET\\Client\\RPG_P1_Client\\API_Connection\\API_Connection.csproj",
+        "projectName": "API_Connection",
+        "projectPath": "D:\\Revature\\220705-UTA-NET\\Project 1\\220705-Project_1-UTC-NET\\Client\\RPG_P1_Client\\API_Connection\\API_Connection.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Revature\\220705-UTA-NET\\Project 1\\220705-Project_1-UTC-NET\\Client\\RPG_P1_Client\\Data.DTO\\Data.DTO.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Revature\\220705-UTA-NET\\Project 1\\220705-Project_1-UTC-NET\\Client\\RPG_P1_Client\\Data.DTO\\Data.DTO.csproj",
+        "projectName": "Data.DTO",
+        "projectPath": "D:\\Revature\\220705-UTA-NET\\Project 1\\220705-Project_1-UTC-NET\\Client\\RPG_P1_Client\\Data.DTO\\Data.DTO.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

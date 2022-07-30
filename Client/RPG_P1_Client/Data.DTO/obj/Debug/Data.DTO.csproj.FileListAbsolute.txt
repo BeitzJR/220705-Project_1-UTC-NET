@@ -1,0 +1,12 @@
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\Character.DTO\bin\Debug\Character.DTO.dll
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\Character.DTO\bin\Debug\Character.DTO.pdb
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\Character.DTO\obj\Debug\Data.DTO.csproj.AssemblyReference.cache
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\Character.DTO\obj\Debug\Data.DTO.csproj.CoreCompileInputs.cache
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\Character.DTO\obj\Debug\Character.DTO.dll
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\Character.DTO\obj\Debug\Character.DTO.pdb
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\Data.DTO\bin\Debug\Character.DTO.dll
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\Data.DTO\bin\Debug\Character.DTO.pdb
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\Data.DTO\obj\Debug\Data.DTO.csproj.AssemblyReference.cache
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\Data.DTO\obj\Debug\Data.DTO.csproj.CoreCompileInputs.cache
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\Data.DTO\obj\Debug\Character.DTO.dll
+D:\Revature\220705-UTA-NET\Project 1\220705-Project_1-UTC-NET\Client\RPG_P1_Client\Data.DTO\obj\Debug\Character.DTO.pdb
